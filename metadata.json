@@ -1,0 +1,5 @@
+{
+  "name": "SendGrid Email Dispatcher",
+  "description": "A test website that allows users to enter their name and email address. On clicking 'send', an email will be sent to that address using the SendGrid API via a secure serverless function.",
+  "requestFramePermissions": []
+}
